@@ -6,7 +6,10 @@
 
 ## 内容概要及目标人群
 
-真实职场故事
+本指南由本人主笔
 
 ## 更新&交流
+
+## 感谢
+@Coder2gwy的https://github.com/coder2gwy
 
